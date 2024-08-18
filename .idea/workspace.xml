@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="613feb1a-264a-4899-9ab0-10bf7ebd21aa" name="Changes" comment="" />
+    <list default="true" id="613feb1a-264a-4899-9ab0-10bf7ebd21aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Feature/devlab.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Feature/devlab.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/devlab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/devlab.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +47,7 @@
     "TestNG.create_table.create_a_table.executor": "Run",
     "TestNG.create_table.executor": "Run",
     "TestNG.create_table.get_Data.executor": "Run",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "demo__testing",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/jeffreyng/IdeaProjects/CucumberTest/src/test/Feature",
     "onboarding.tips.debug.path": "/Users/jeffreyng/IdeaProjects/CucumberTest/src/main/java/org/example/Main.java"
