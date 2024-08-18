@@ -11,6 +11,7 @@ public class devlab {
 
     @When("user launch devlab application")
     public void user_launch_devlab_application() {
+        System.out.println("i am doing changes for demo branch");
         try {
             System.setProperty("webdriver.chrome.driver", "/Users/jeffreyng/Downloads/chromedriver-mac-arm64/chromedriver");
             driver = new ChromeDriver(); //initialization of chromedriver
