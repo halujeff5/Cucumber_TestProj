@@ -7,3 +7,5 @@ Feature: validate devlab homepage scenarios
     And user validate devlab logo
     And user validate top menu options
     Then user close devlab application
+
+
